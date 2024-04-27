@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Typescript, Appwrite, and Unreal Engine 5**
 
-- 👨‍💻 All of my projects are available at [https://nickborrello.github.io](https://nickborrello.github.io)
-
 - 📫 How to reach me **nvborrello@gmail.com**
 
 - 📄 Know about my experiences [**here**](https://api.resumefromspace.com/resume/view-resume/661908c4891b21eddf9f5c84?resumeOnly=true)
