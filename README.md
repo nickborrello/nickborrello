@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nvborrello@gmail.com**
 
-- 📄 Know about my experiences [Resume Here](https://api.resumefromspace.com/resume/view-resume/661908c4891b21eddf9f5c84?resumeOnly=true)
+- 📄 Know about my experiences [**Resume**](https://api.resumefromspace.com/resume/view-resume/661908c4891b21eddf9f5c84?resumeOnly=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
