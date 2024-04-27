@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">A passionate frontend developer from Massachusetts</h3>
+<h3 align="center">A passionate developer from Massachusetts</h3>
+
+- 🔭 I’m currently working on **PlayHorizon**
+
+- 🌱 I’m currently learning **Typescript, Appwrite, and Unreal Engine 5**
+
+- 👨‍💻 All of my projects are available at [https://nickborrello.github.io](https://nickborrello.github.io)
+
+- 📫 How to reach me **nvborrello@gmail.com**
+
+- 📄 Know about my experiences [https://api.resumefromspace.com/resume/view-resume/661908c4891b21eddf9f5c84?resumeOnly=true](https://api.resumefromspace.com/resume/view-resume/661908c4891b21eddf9f5c84?resumeOnly=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
