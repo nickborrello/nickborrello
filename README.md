@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Massachusetts
 </h3>
 
-- 🌱 I’m currently learning **Typescript, Appwrite, and Unreal Engine 5**
+- 🌱 I’m currently learning **Typescript, Appwrite, and Next.js**
 
 - 📫 How to reach me **nvborrello@gmail.com**
 
