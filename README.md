@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">A passionate developer from Massachusetts
+<h3 align="center">A developer from Massachusetts
 </h3>
 
 - 🌱 I’m currently learning **Typescript, Appwrite, and Next.js**
