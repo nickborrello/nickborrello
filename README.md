@@ -2,8 +2,6 @@
 <h3 align="center">A developer from Massachusetts
 </h3>
 
-- 🌱 I’m currently learning **Typescript, Appwrite, and Next.js**
-
 - 📫 How to reach me **nvborrello@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
