@@ -9,22 +9,21 @@
 <a href="https://www.linkedin.com/in/nicholasborrello/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:nvborrello@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=nickborrello&theme=dracula&hide_border=true" height="150" alt="streak graph" />
+</div>
+
 </div>
 
 ---
 
 ### About Me
-I am a developer who builds bridges between web applications and artificial intelligence. I specialize in creating "copilot" experiences and custom automation suites that solve tangible business problems. I use Python and modern JavaScript frameworks to optimize workflows and generate content.
+I build web apps and automation tools. I enjoy integrating AI into software to make workflows smarter and more efficient.
 
-### Selected Work
+### Current Focus
+I am currently building **[Resumancer](https://resumancer.dev)**, an AI-powered copilot that helps people draft and format professional resumes. Aside from that, I develop custom inventory automation tools for **Bay State Pet & Garden Supply**.
 
-| Project / Client | Type | Description |
-| :--- | :--- | :--- |
-| **[Resumancer.dev](https://resumancer.dev)** | **SaaS Product** | An AI-powered resume building copilot. It utilizes the Vercel AI SDK to assist users in drafting, formatting, and optimizing professional resumes. |
-| **Bay State Pet & Garden** | **Client Automation** | Developing a suite of internal automation tools to streamline business operations, inventory management, and data processing. |
-| **ShopSiteTools** | **Open Source** | Modular web scraping architecture designed for extracting and analyzing e-commerce product data. |
-
-### Technical Toolbox
+### Tools I Use
 
 **Core & Automation**
 <br />
@@ -35,7 +34,3 @@ I am a developer who builds bridges between web applications and artificial inte
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <br />
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com/?user=nickborrello&theme=dracula&hide_border=true" height="150" alt="streak graph" />
-</div>
