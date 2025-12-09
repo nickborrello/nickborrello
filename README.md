@@ -9,9 +9,7 @@
 <a href="https://www.linkedin.com/in/nicholasborrello/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:nvborrello@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=nickborrello&theme=dracula&hide_border=true" height="150" alt="streak graph" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=nickborrello&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
