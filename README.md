@@ -17,7 +17,7 @@
 I build web apps and automation tools. I enjoy integrating AI into software to make workflows smarter and more efficient.
 
 ### Current Focus
-I am currently building **[Resumancer](https://resumancer.dev)**, an AI-powered copilot that helps people draft and format professional resumes. Aside from that, I develop custom inventory automation tools for **Bay State Pet & Garden Supply**.
+I am currently building **[Resumancer](https://resumancer.dev)**, an AI-powered copilot that helps people draft and format professional resumes. Aside from that, I develop custom ecommerce apps & inventory automation tools for **[Bay State Pet & Garden Supply](https://github.com/Bay-State-Pet-and-Garden-Supply)**.
 
 ### Tools I Use
 
